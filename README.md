@@ -1,5 +1,5 @@
 # exam_creator
-A tool that automatically creates exercise exam sheets from a set of given exercise sheets. This is useful for practising random exercises for a real exam. 
+A tool that automatically creates "exam" sheets from a random set of exercises (from tutorial sheets). This is useful for practising random exercises for a real exam. 
 
 # Setup
 - Install all python modules listed in the `main.py` file.
